@@ -7,7 +7,7 @@ O projeto visa reunir dados coletados pela Policia Rodoviária Federal, buscando
 - Como o clima afeta?
 - Como o tipo de pista influencia?
 
-A análise possuirá testes estatísticos para validar os insights aqui encontrados, além de possuir um dashboard interativo construido no powerbi para fácil visualização.
+A análise possuirá testes estatísticos para validar os insights aqui encontrados, além de possuir um dashboard interativo construido no Power BI para fácil visualização.
 
 ## Dataset
 Fonte: Dados Abertos da PRF <br>
